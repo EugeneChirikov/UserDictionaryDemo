@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserDictionaryDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_hint">Enter your text</string>
+</resources>
